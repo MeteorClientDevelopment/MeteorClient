@@ -1,4 +1,4 @@
-plugins {
+plugins { 
     id "fabric-loom" version "1.8-SNAPSHOT"
     id "maven-publish"
     id "com.github.johnrengelman.shadow" version "8.1.1"
